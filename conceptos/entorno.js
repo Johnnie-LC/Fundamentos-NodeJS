@@ -1,3 +1,6 @@
+// las varaibles de entorno sirve para meter informacion fuera de nuestro programa
+// al programa
+
 // para acceder a las variables de entorno debemos usar process.env y la variable deseada en mayusculas
 // y enterminal podemos asignar un valor a la variable, por ejemplo: NOMBRE='Johnnie'
 // Para dar un valor por defecto a nuestra variabla podemos usar ||
