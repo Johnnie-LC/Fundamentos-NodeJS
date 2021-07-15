@@ -19,9 +19,9 @@
 
 // console.log('Otra cosas de otra funcion')
 
-// // contadorees
-// console.count('veces')
-// console.count('veces')
-// console.count('veces')
-// console.countReset('veces')
-// console.count('veces')
+// contadorees
+console.count('veces')
+console.count('veces')
+console.count('veces')
+console.countReset('veces')
+console.count('veces')
