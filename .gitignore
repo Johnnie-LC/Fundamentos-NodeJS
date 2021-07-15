@@ -105,3 +105,6 @@ dist
 
 #setting VScode
 .vscode
+
+#binary c++
+modulos/nativos/build
