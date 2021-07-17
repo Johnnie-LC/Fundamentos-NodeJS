@@ -108,3 +108,6 @@ dist
 
 #binary c++
 modulos/nativos/build
+
+.DS_Store
+
